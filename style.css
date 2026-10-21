@@ -2,7 +2,7 @@ body {
     margin: 0;
     background-color: #FAF4D4;
     color: #3e1718;
-    font-family: Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 header {
@@ -16,7 +16,7 @@ header {
 
 header h2 {
     color: #660005;
-    font-family: Georgia, serif;
+    font-family: 'Playfair Display', serif;
     font-style: italic;
 }
 
@@ -45,7 +45,7 @@ nav a {
 
 h1 {
     color: #660005;
-    font-family: Georgia, serif;
+    font-family: 'Playfair Display', serif;
     font-size: 70px;
     line-height: 1;
 }
@@ -92,7 +92,7 @@ h1 i {
 }
 
 .historia h2 {
-    font-family: Georgia, serif;
+    font-family: 'Playfair Display', serif;
     font-size: 45px;
     font-weight: normal;
 }
@@ -115,7 +115,7 @@ h1 i {
 
 .produto h2 {
     color: #660005;
-    font-family: Georgia, serif;
+    font-family: 'Playfair Display', serif;
     font-size: 50px;
     font-weight: normal;
 }
